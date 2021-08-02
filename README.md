@@ -41,6 +41,8 @@ Após baixar o projeto na sua máquina, é recomendado descompactar dentro da pa
 
 ## Executando os testes
 
+1. Subir a aplicação back-end contida nesse repositório: https://github.com/rh-southsystem/Sicredi-Digital-QA
+
 1. De volta no Project Explorer do Eclipse, clicar no Projeto.
 
 2. Clicar em "src/test/java", clicar na seta da pasta.
